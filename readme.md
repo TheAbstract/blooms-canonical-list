@@ -7,3 +7,21 @@ Apparently he made it off the top of his head after it was requested by his edit
 I didn't know of a place online where you could get the whole list in a tidy format, so I created one.
 The file `books.csv` contains all 1511 works listed in the appendix.
 
+## sample data
+
+The head of the `books.csv` file looks like this:
+
+| Author  | Work                                 | Nation                | Age                                   |
+|---------|--------------------------------------|-----------------------|---------------------------------------|
+| Unknown | Gilgamesh                            | The Ancient Near East | The Theocratic Age (2000 BCE-1321 CE) |
+| Unknown | Egyptian Book of the Dead            | The Ancient Near East | The Theocratic Age (2000 BCE-1321 CE) |
+| Unknown | Holy Bible (King James Version)      | The Ancient Near East | The Theocratic Age (2000 BCE-1321 CE) |
+| Unknown | The Apocrypha                        | The Ancient Near East | The Theocratic Age (2000 BCE-1321 CE) |
+| Unknown | Sayings of the Fathers (Pirke Aboth) | The Ancient Near East | The Theocratic Age (2000 BCE-1321 CE) |
+
+### references
+
+- https://en.wikipedia.org/wiki/The_Western_Canon
+- https://www.openculture.com/2014/01/harold-bloom-creates-a-massive-list-of-works-in-the-western-canon.html
+- https://apilgriminnarnia.com/2019/10/18/rip-harold/
+- https://apilgriminnarnia.com/2016/07/13/bloomcanon/

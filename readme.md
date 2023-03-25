@@ -7,7 +7,7 @@ Apparently he made it off the top of his head after it was requested by his edit
 I didn't know of a place online where you could get the whole list in a tidy format, so I created one.
 The file `books.csv` contains all 1511 works listed in the appendix.
 
-## sample data
+## data sample
 
 The head of the `books.csv` file looks like this:
 
